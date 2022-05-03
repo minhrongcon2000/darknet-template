@@ -16,7 +16,6 @@ convnet/
 decaf/
 submission/
 cfg/
-darknet
 .fuse*
 
 # OS Generated #
@@ -25,3 +24,5 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+data/
+darknet53.conv.74
